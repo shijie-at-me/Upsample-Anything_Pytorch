@@ -79,13 +79,10 @@ We sincerely thank [Young-Tack Oh](https://scholar.google.com/citations?user=fkj
 If you find this repository useful, please consider giving a star :star: and citation :Upsample Anything::
 
 ```
-@misc{seo2025upsampleanythingsimplehard,
-      title={Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling}, 
-      author={Minseok Seo and Mark Hamilton and Changick Kim},
-      year={2025},
-      eprint={2511.16301},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.16301}, 
+@article{seo2025upsample,
+  title={Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling},
+  author={Seo, Minseok and Hamilton, Mark and Kim, Changick},
+  journal={arXiv preprint arXiv:2511.16301},
+  year={2025}
 }
 ```
